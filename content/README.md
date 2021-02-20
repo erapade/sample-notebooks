@@ -1,4 +1,4 @@
-# Sample Jupyter Book with Remote Book Publish Action
+# Sample Jupyter Book with Remote Book Publish Action2
 
 This repository is a sample Jupyter book containing a single notebook with a GitHub action to create a remote book for Azure Data Studio.  The workflow is started manually within the GitHub web interface.
 
